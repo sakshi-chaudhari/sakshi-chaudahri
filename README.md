@@ -65,7 +65,8 @@
 <details>	
   <summary><b>👁👁 Github Visitor</b></summary>
   <br />
-  ![Visitor Count](https://profile-counter.glitch.me/sakshi-chaudhari/count.svg) 
+  <img height="27" src="https://profile-counter.glitch.me/sakshi-chaudhari/count.svg">
+  
 </details>
 
 
