@@ -25,3 +25,5 @@
 [facebook]: https://www.facebook.com/sakshi.chaudhari.1000/
 [hackerrank]: https://www.hackerrank.com/sakshee1603
 
+### Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakshi-chaudhari&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
