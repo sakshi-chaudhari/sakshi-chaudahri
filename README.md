@@ -11,7 +11,7 @@
 
 ### Find me across the globe:
 
-[<img align="left" alt="" width="24px" src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png" />][gmail]
+[<img align="left" alt="" width="24px" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />][gmail]
 [<img align="left" alt="" width="24px" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -27,5 +27,5 @@
 ### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakshi-chaudhari&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-###
+### You are Visitor number:
 ![Visitor Count](https://profile-counter.glitch.me/sakshi-chaudhari/count.svg) 
