@@ -59,7 +59,7 @@
   <summary><b>💯 Github Score</b></summary>
   
   <br />
-  [![](https://gitwar.herokuapp.com/badge?username=sakshi-chaudhari&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+  <img height="27" src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar.herokuapp.com%2Fapi%2Fsakshi-chaudhari">
 </details>
 
 <details>	
