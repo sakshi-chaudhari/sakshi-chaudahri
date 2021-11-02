@@ -13,7 +13,7 @@
 
 [<img align="left" alt="" width="24px" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />][gmail]
 [<img align="left" alt="" width="24px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="" width="24px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHackerRank_logo.png&psig=AOvVaw2kEYMbToXN9I9K8W8LgC9r&ust=1635923153328000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMie7uWO-fMCFQAAAAAdAAAAABAD" />][hackerrank]
 [<img align="left" alt="" width="24px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="" width="24px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
 <br />
